@@ -16,6 +16,9 @@ Identifies high-probability options trades
 Sends real-time alerts
 Tracks performance automatically
 
+![Demo screenshot](images/discord.png)
+![Demo screenshot](images/sheet.png)
+
 It combines data analysis + automation + structured rules to remove emotion from trading.
 
 ⚙️ Core Features
